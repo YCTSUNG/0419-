@@ -1,0 +1,57 @@
+
+body{
+    width: 100%;
+    height: auto;
+    margin:0 auto;
+    background-color: gray;
+}
+
+.upper{
+    width: 800px;
+    height: 130px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+.footer{
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+    padding-top: 30px;
+}
+
+.footer input{
+    width: 100px;
+    height: 30px;
+    margin-top: 5px ;
+    margin-left: 7px;
+}
+
+ .footer button{
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 7px;
+    background-color: gray;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+.數列{
+display: flex;
+}
+
+
+
+
+
